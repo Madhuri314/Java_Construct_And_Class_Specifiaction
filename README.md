@@ -1,0 +1,2 @@
+# Java_Construct_And_Class_Specifiaction
+Class Specification
