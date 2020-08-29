@@ -1,5 +1,5 @@
 /**
-*       Employee wage computation using Instance methods in it
+* Employee wage computation using instance methods
 */
 public class EmpWageBuilder {
         //CONSTANTS
@@ -58,9 +58,5 @@ public class EmpWageBuilder {
                 EmpWageBuilder empWageBuilder1 = new EmpWageBuilder(20, 20, 100);
                 empWageBuilder1.totalEmpWage();
                 System.out.println(empWageBuilder1);
-
-                //EmpWageBuilder empWageBuilder2 = new EmpWageBuilder(25, 5, 15);
-                //empWageBuilder2.totalEmpWage();
-                //System.out.println(empWageBuilder2);
         }
 }
