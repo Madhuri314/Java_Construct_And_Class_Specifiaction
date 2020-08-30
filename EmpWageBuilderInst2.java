@@ -62,6 +62,4 @@ public class EmpWageBuilderInst2 {
                 }
                 return empHrs;
         }
-
-
 }
